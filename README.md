@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mithilesh Ganesh Sharma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
  
-⚡ Fun fact **The intense fear or dislike of new technology is called technophobia.**
+ <p align="center">
+⚡ Fun fact <b>The intense fear or dislike of new technology is called technophobia.</b>
+ </p>
  
+<p align="center">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg">
+</p>
 
 
-
-
-
-![](https://komarev.com/ghpvc/?username=Mithilesh-create&style=for-the-badge)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Mithilesh-create&style=for-the-badge">
+</p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mithilesh-create" alt="Mithilesh-create" /></p>
 
