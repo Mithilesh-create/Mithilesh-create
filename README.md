@@ -14,6 +14,9 @@
 <img src="https://komarev.com/ghpvc/?username=Mithilesh-create&style=for-the-badge">
 </p>
 
+<p  align="center"><img height="380" src = "./profile-pic.png"></p>
+
+
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mithilesh-create" alt="Mithilesh-create" /></p>
 
 
