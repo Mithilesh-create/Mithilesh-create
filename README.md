@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mithilesh Ganesh Sharma</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A Passionate Software developer from India</h3>
  
  <p align="center">
 ⚡ Fun fact <b>The intense fear or dislike of new technology is called technophobia.</b>
  </p>
- 
+
 <p align="center">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg">
 </p>
@@ -15,9 +15,21 @@
 </p>
 
 <p  align="center"><img height="280" src = "./profile-pic.png"></p>
+<p align="center">
+<a href="https://mithilesh-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/my_portfolio-white?style=for-the-badge&logo=angellist&logoColor=black"/>
+</a>
+<a href="https://www.linkedin.com/in/mithilesh-sharma-2b0166205/">
+<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/sharma_fyi">
+<img src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+</p>
 
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mithilesh-create" alt="Mithilesh-create" /></p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mithilesh-create&margin-w=15&margin-h=15&column=3&theme=darkhub">
+</div>
 
 
 
@@ -59,6 +71,16 @@
 
 
 </p>
+
+
+
+<div align="center">
+<img src="https://myreadme.vercel.app/api/embed/Mithilesh-create?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+</div>
+
+
+
 <p align="center">  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/KzPKjBNn/footer-Dark.png">
@@ -66,17 +88,3 @@
     <img alt="Footer" src="https://i.postimg.cc/KzPKjBNn/footer-Dark.png">
   </picture>
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithilesh-create&show_icons=true&locale=en&layout=compact" alt="mithilesh-create" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mithilesh-create&show_icons=true&locale=en" alt="mithilesh-create" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithilesh-create&" alt="mithilesh-create" /></p>
-
-</div>
-
-## 🔗 Connect With Me
-[![portfolio](https://img.shields.io/badge/my_portfolio-white?style=for-the-badge&logo=angellist&logoColor=black)](https://mithilesh-portfolio.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithilesh-sharma-2b0166205/)
-[![twitter](https://img.shields.io/badge/x-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sharma_fyi)
