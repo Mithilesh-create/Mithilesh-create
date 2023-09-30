@@ -28,7 +28,7 @@
 </p>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mithilesh-create&margin-w=15&margin-h=15&column=3&theme=darkhub">
+<img src="https://github-profile-trophy.vercel.app/?username=Mithilesh-create&margin-w=15&margin-h=15&column=4&theme=darkhub">
 </div>
 
 
